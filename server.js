@@ -2,8 +2,7 @@
 
 const yargs = require('yargs')
 
-const processReporter = require('./reporters/human/process')
-const errorReporter = require('./reporters/human/error')
+const reporter = require('./reporters/reporter')
 const BaseServer = require('./base-server')
 
 yargs
@@ -83,7 +82,8 @@ class Server extends BaseServer {
     options.pid = process.pid
 
     super(options, function () {
-      process.stderr.write(processReporter.apply(null, arguments))
+      const args = [options].concat(Array.prototype.slice.call(arguments))
+      reporter.reportProcess.apply(null, args)
     })
 
     const onError = e => {
@@ -110,7 +110,7 @@ class Server extends BaseServer {
   listen () {
     const origin = BaseServer.prototype.listen
     return origin.apply(this, arguments).catch(e => {
-      process.stderr.write(errorReporter(e, this))
+      reporter.reportRuntimeError(arguments[0], e)
       process.exit(1)
     })
   }
