@@ -81,9 +81,9 @@ exports[`shows uncatch rejects 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -91,9 +91,9 @@ exports[`shows uncatch rejects1 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -101,9 +101,9 @@ exports[`shows uncatch rejects2 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -111,9 +111,9 @@ exports[`shows uncatch rejects3 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -121,9 +121,9 @@ exports[`shows uncatch rejects4 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -131,9 +131,9 @@ exports[`shows uncatch rejects5 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -141,9 +141,9 @@ exports[`shows uncatch rejects6 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -151,9 +151,9 @@ exports[`shows uncatch rejects7 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -161,9 +161,9 @@ exports[`shows uncatch rejects8 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -171,9 +171,9 @@ exports[`shows uncatch rejects9 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -181,9 +181,9 @@ exports[`shows uncatch rejects10 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -191,9 +191,9 @@ exports[`shows uncatch rejects11 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -201,9 +201,9 @@ exports[`shows uncatch rejects12 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -211,9 +211,9 @@ exports[`shows uncatch rejects13 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -221,9 +221,9 @@ exports[`shows uncatch rejects14 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -231,9 +231,9 @@ exports[`shows uncatch rejects15 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -241,9 +241,9 @@ exports[`shows uncatch rejects16 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -251,9 +251,9 @@ exports[`shows uncatch rejects17 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -261,9 +261,9 @@ exports[`shows uncatch rejects18 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -271,9 +271,9 @@ exports[`shows uncatch rejects19 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -281,9 +281,9 @@ exports[`shows uncatch rejects20 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -291,9 +291,9 @@ exports[`shows uncatch rejects21 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -301,9 +301,9 @@ exports[`shows uncatch rejects22 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -311,9 +311,9 @@ exports[`shows uncatch rejects23 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -321,9 +321,9 @@ exports[`shows uncatch rejects24 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -331,9 +331,9 @@ exports[`shows uncatch rejects25 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -341,9 +341,9 @@ exports[`shows uncatch rejects26 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -351,9 +351,9 @@ exports[`shows uncatch rejects27 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -361,9 +361,9 @@ exports[`shows uncatch rejects28 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -371,9 +371,9 @@ exports[`shows uncatch rejects29 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -381,9 +381,9 @@ exports[`shows uncatch rejects30 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -391,9 +391,9 @@ exports[`shows uncatch rejects31 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -401,9 +401,9 @@ exports[`shows uncatch rejects32 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -411,9 +411,9 @@ exports[`shows uncatch rejects33 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -421,9 +421,9 @@ exports[`shows uncatch rejects34 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -431,9 +431,9 @@ exports[`shows uncatch rejects35 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -441,9 +441,9 @@ exports[`shows uncatch rejects36 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -451,9 +451,9 @@ exports[`shows uncatch rejects37 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -461,9 +461,9 @@ exports[`shows uncatch rejects38 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -471,9 +471,9 @@ exports[`shows uncatch rejects39 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -481,9 +481,9 @@ exports[`shows uncatch rejects40 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -491,9 +491,9 @@ exports[`shows uncatch rejects41 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -501,9 +501,9 @@ exports[`shows uncatch rejects42 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -511,9 +511,9 @@ exports[`shows uncatch rejects43 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -521,9 +521,9 @@ exports[`shows uncatch rejects44 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -531,9 +531,9 @@ exports[`shows uncatch rejects45 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -541,9 +541,9 @@ exports[`shows uncatch rejects46 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -551,9 +551,9 @@ exports[`shows uncatch rejects47 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -561,9 +561,9 @@ exports[`shows uncatch rejects48 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -571,9 +571,9 @@ exports[`shows uncatch rejects49 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 
@@ -581,9 +581,9 @@ exports[`shows uncatch rejects50 1`] = `
 " ERROR  Test Error at 1970-01-01 00:00:00
         fake stacktrace
 
-Error event: Test Error
  INFO   Shutting down Logux server at 1970-01-01 00:00:00
 
+Error event: Test Error
 "
 `;
 

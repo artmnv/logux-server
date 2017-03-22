@@ -12,8 +12,10 @@ const app = new Server({
 
 const errorPromise = new Promise(resolve => {
   app.on('error', e => {
-    console.log(`Error event: ${ e.message }`)
-    resolve()
+    setTimeout(() => {
+      console.log(`Error event: ${ e.message }`)
+      resolve()
+    }, 10)
   })
 })
 
