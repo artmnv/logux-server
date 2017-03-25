@@ -28,5 +28,5 @@ new Promise((resolve, reject) => {
     const error = new Error('Test Error')
     error.stack = `${ error.stack.split('\n')[0] }\nfake stacktrace`
     reject(error)
-  }, 10)
+  }, 50)
 })
