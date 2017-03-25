@@ -10,18 +10,7 @@ const app = new Server({
   supports: '1.x'
 })
 
-const errorPromise = new Promise(resolve => {
-  app.on('error', e => {
-    setTimeout(() => {
-      console.log(`Error event: ${ e.message }`)
-      resolve()
-    }, 10)
-  })
-})
-
-app.unbind.push(() => new Promise(resolve => {
-  errorPromise.then(resolve)
-}))
+app.on('error', e => console.log(`Error event: ${ e.message }`))
 
 new Promise((resolve, reject) => {
   setTimeout(() => {
